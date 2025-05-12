@@ -1,4 +1,4 @@
-![Anurag's GitHub stats]()
+![Anurag's GitHub stats](https://avatars.githubusercontent.com/u/210523238?s=400&v=4)
 
 
 
