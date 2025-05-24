@@ -2,15 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-
-### 👋 Olá! Bem-vindo ao meu perfil no GitHub!
+## 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 ## 🙋‍♂️ Sobre Mim
 
 Olá! Meu nome é André Lucca.
 Sou estudando so SENAI Valinhos
-
----
 
 ## 📬 Contato
 <div>
