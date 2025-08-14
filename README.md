@@ -24,4 +24,4 @@ Sou estudando so SENAI Valinhos
 ---
 
 ### 🔥 Github Status 
-![Minhas estatísticas]([https://github-readme-stats.vercel.app/api?username=lucca19nn&show_icons=true&theme=tokyonight](https://github.com/lucca19nn))
+![Minhas estatísticas]([https://github-readme-stats.vercel.app/api?username=lucca19nn&show_icons=true&theme=tokyonight])
