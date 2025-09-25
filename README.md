@@ -3,7 +3,7 @@
 ## 🙋‍♂️ Sobre Mim
 
 Olá! Meu nome é André Lucca.
-Sou estudando so SENAI Valinhos
+Sou estudando do SENAI Valinhos
 
 ## 📬 Contato
 <div>
